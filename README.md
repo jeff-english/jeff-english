@@ -19,7 +19,9 @@ Areas I'm working on include:
 - **Claim verification:** Tracking whether assertions remain consistent and supported through a reasoning process.
 - **Product-to-implementation thinking:** Turning a product concept into working software and repeatable tests.
 
-*The CanonRoot source repository is private while the project is in development. Public architecture notes and examples may be shared separately.*
+**[Explore the public CanonRoot showcase](https://github.com/jeff-english/canonroot-showcase)** — product overview, conceptual architecture, verification approach, and clearly labeled illustrative examples.
+
+*The CanonRoot application source remains private during development.*
 
 ## Areas of focus
 
